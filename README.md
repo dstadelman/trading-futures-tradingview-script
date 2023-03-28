@@ -1,3 +1,60 @@
+If you win, please support me on Paypal: clickclone@gmail.com
+
+## Script Trading ES 20223
+
+Please use this one with timeframe 5M: `https://github.com/dearvn/trading-futures-tradingview-script/blob/main/ESH2023-5M.txt`
+
+## Trading GOLD
+ 
+Using script `GOLD_UZ_OZ.txt`
+
+![Alt text](https://github.com/dearvn/trading-futures-tradingview-script/raw/main/gold.png?raw=true "Gold")
+
+
+## Using the latest version of `es-futures-no-repaint-v1.x.txt` to alert on 1M ES without REPAINT time trading from 6:30AM to 12:30 PM UTC-8
+
+Alert to auto trade using timeframe 1M: `es-futures-no-repaint-v1.x.txt`
+
+Review history timeframe 30s: `es-futures-repaint-30s.txt`
+
+![Alt text](https://github.com/dearvn/trading-futures-tradingview-script/raw/main/alerts.png?raw=true "alerts")
+
+
+## Newbie
+
+**Use `color-trend-lite.txt` to trade easily**
+
+**BLUE: trend up**
+
+**RED: trend down**
+
+**How to use: ex: when I enter CALL if color is still BLUE and high[1] < high then keep CALL. Or when I enter PUT if color is still RED and low[1] > low  then keep PUT. Else EXIT CALL or EXIT PUT**
+
+![Alt text](https://github.com/dearvn/trading-futures-tradingview-script/raw/main/color-trend.png?raw=true "color-trend")
+
+## Strategy ES 1M
+
+using: `best-strategy-es-1m.txt`
+
+![Alt text](https://github.com/dearvn/trading-futures-tradingview-script/raw/main/strategy-es.png?raw=true "strategy-es")
+
+## Binance Futures Trading
+
+Ref: https://github.com/dearvn/tradingview-pinscript-futures-binance
+
+## PRIVATE SCRIPT
+
+**11/07/2022**
+![Alt text](https://github.com/dearvn/trading-futures-tradingview-script/raw/main/private.png?raw=true "private")
+
+
+## WINNING VS LOSING TRADES
+
+![Alt text](https://github.com/dearvn/trading-futures-tradingview-script/raw/main/today.png?raw=true "today")
+
+![Alt text](https://github.com/dearvn/trading-futures-tradingview-script/raw/main/gain_loss_report.png?raw=true "gain_loss_report")
+
+
 ## SUPORT ME
 
 I like a cup of coffee at https://www.patreon.com/donaldit
